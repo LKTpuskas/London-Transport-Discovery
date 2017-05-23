@@ -6,4 +6,3 @@
 	> npm install
 	> npm start
 ```
-w
