@@ -1,0 +1,62 @@
+.input-group {
+    margin:  20px 20px;
+}
+
+h1 {
+    text-align: center; !important;
+}
+
+li {
+    list-style-type: none;
+}
+
+td, th {
+    vertical-align: middle; !important;
+    text-align: center; !important;
+}
+
+
+
+
+body {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c7daed+0,9296aa+31,8899aa+64,b8d3ed+100 */
+  /*  background: #c7daed; !* Old browsers *!
+    background: -moz-linear-gradient(left,  #c7daed 0%, #9296aa 31%, #8899aa 64%, #b8d3ed 100%); !* FF3.6-15 *!
+    background: -webkit-linear-gradient(left,  #c7daed 0%,#9296aa 31%,#8899aa 64%,#b8d3ed 100%); !* Chrome10-25,Safari5.1-6 *!
+    background: linear-gradient(to right,  #c7daed 0%,#9296aa 31%,#8899aa 64%,#b8d3ed 100%); !* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ *!
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7daed', endColorstr='#b8d3ed',GradientType=1 ); !* IE6-9 *!
+*/
+}
+
+.table {
+    font-family: prisma; !important;
+
+}
+
+.input-group {
+    font-family: prisma; !important;
+
+}
+
+.ssuccess {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d0e9c6;
+}
+
+.warn {
+    color: #8f751b;
+    background-color: #dff0d8;
+    border-color: #d0e9c6;
+}
+
+
+
+svg {
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
